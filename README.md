@@ -1,4 +1,4 @@
-<h1 align="center">Hi, i'ts Kacper</h1>
+<h1 align="center">Hi, it's Kacper</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kacper-sekunda&label=Profile%20views&color=0e75b6&style=flat" alt="kacper-sekunda" /> </p>
 
 <h3 align="left">Connect with me:</h3>
