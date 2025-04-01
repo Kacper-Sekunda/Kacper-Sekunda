@@ -1,5 +1,6 @@
 
-<p align="left">Test </p>
+<p align="left">Currently a student at the University of Huddersfield. </p><br>
+<p>Studying to create fun games :0</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
